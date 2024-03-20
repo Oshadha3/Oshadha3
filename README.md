@@ -9,6 +9,7 @@
 - 🌱 I’m currently doing **BSc(Hons)Computing-2nd Year [Higher National Diploma In Software Engineering] at NIBM**
 
 - 👯 I’m looking to collaborate on **Group Projects to improve my Skills**
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🤝 I’m looking for help with **Java, HTML, CSS and JavaScript**
 
